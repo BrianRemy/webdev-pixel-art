@@ -22,3 +22,8 @@
       height: 40px;
       border: 2px solid black;
   }
+
+  #palette {
+    position: sticky;
+    top: 10px;
+  }
